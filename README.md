@@ -73,7 +73,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: Visit our [Documentation page](https://neposcrape.vercel.app/documentation)
 - **Help Center**: Check out the [Help Center]([https://neposcrape.vercel.app/help-center)
 - **Community**: Join our [Community](https://neposcrape.vercel.app/community)
-- **Contact**: Reach out via our [Contact pageyour-domaineposcrape.vercel.app/contact)
+- **Contact**: Reach out via our [Contact page](https://neposcrape.vercel.app/contact)
 - **Bug Reports**: Submit issues on our [Bug Reports page](https://neposcrape.vercel.app/bug-reports)
 
 ## 🔄 Version History
