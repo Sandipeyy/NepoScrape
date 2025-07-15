@@ -29,8 +29,6 @@ NepoScrape is a free AI-powered web scraping platform that enables you to extrac
 
 Before running this project, make sure you have:
 
-- Node.js (v18 or higher)
-- npm or bun package manager
 - A Firecrawl API key (for web scraping functionality)
 
 ## 🔑 Configuration
